@@ -1,0 +1,20 @@
+# ─── Frontend Dependencies ────────────────────────────────────────────────────
+
+# Streamlit framework
+streamlit>=1.35.0
+streamlit-chat>=0.1.1
+streamlit-autorefresh>=0.0.1
+
+# Data processing & visualization
+pandas>=2.2.0
+numpy>=1.24.0
+plotly>=5.18.0
+
+# HTTP client
+requests>=2.31.0
+httpx>=0.27.0
+
+# Utilities
+python-dotenv>=1.0.0
+loguru>=0.7.2
+

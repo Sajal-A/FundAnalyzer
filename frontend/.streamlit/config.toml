@@ -1,0 +1,26 @@
+[theme]
+primaryColor = "#1976d2"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f0f2f6"
+textColor = "#262730"
+font = "sans serif"
+
+[client]
+showErrorDetails = true
+showWarningOnDirectExecution = false
+
+[logger]
+level = "info"
+
+[server]
+maxUploadSize = 200
+headless = true
+runOnSave = false
+port = 8501
+
+[browser]
+gatherUsageStats = false
+
+[cache]
+maxEntries = 100
+expireAfterSeconds = 3600
